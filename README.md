@@ -4,13 +4,14 @@
 
 ## Project
 
-This repository does not contain code itself, it's just a container to see what katas I've solved in my repository and redirect you to them.
+This repository does not contain code itself, it's just a container to see what katas I've solved in my profile and redirect you to them.
 
 ## Solved Katas
 
 ### Python
 
-[Fizz Buzz](https://github.com/dimanu-py/fizz-buzz-kata) (solved 13th December 2023)
+- [Fizz Buzz](https://github.com/dimanu-py/fizz-buzz-kata)
+- [Leap Year](https://github.com/dimanu-py/leap-year-kata)
 
 ### Visit my GitHub profile for more projects 🚀
 
