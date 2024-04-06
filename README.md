@@ -12,6 +12,7 @@ This repository does not contain code itself, it's just a container to see what 
 
 - [Fizz Buzz](https://github.com/dimanu-py/fizz-buzz-kata)
 - [Leap Year](https://github.com/dimanu-py/leap-year-kata)
+- [Gilded Rose Refactoring Kata](https://github.com/dimanu-py/gilded-rose-kata)
 
 ### Visit my GitHub profile for more projects 🚀
 
