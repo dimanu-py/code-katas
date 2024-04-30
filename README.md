@@ -14,6 +14,7 @@ This repository does not contain code itself, it's just a container to see what 
 - [Leap Year](https://github.com/dimanu-py/leap-year-kata)
 - [Gilded Rose Refactoring Kata](https://github.com/dimanu-py/gilded-rose-kata)
 - [Parallel Change Refactoring Kata](https://github.com/dimanu-py/parallel-change-kata)
+- [Simple Mars Rover Kata](https://github.com/dimanu-py/simple-mars-rover-kata)
 
 ### Visit my GitHub profile for more projects 🚀
 
