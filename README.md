@@ -17,6 +17,7 @@ This repository does not contain code itself, it's just a container to see what 
 - [Simple Mars Rover Kata](https://github.com/dimanu-py/simple-mars-rover-kata)
 - [Tire Pressure System Kata (Racing Cars Exercise)](https://github.com/dimanu-py/tire-pressure-kata)
 - [HTML Converter Kata (Racing Cars Exercise)](https://github.com/dimanu-py/html-converter-kata)
+- [Turn Ticket Dispenser Kata (Racing Cars Exercise)](https://github.com/dimanu-py/ticket-turn-kata)
 
 ### Visit my GitHub profile for more projects 🚀
 
