@@ -18,6 +18,7 @@ This repository does not contain code itself, it's just a container to see what 
 - [Tire Pressure System Kata (Racing Cars Exercise)](https://github.com/dimanu-py/tire-pressure-kata)
 - [HTML Converter Kata (Racing Cars Exercise)](https://github.com/dimanu-py/html-converter-kata)
 - [Turn Ticket Dispenser Kata (Racing Cars Exercise)](https://github.com/dimanu-py/ticket-turn-kata)
+- [Mocking Character Copier Kata](https://github.com/dimanu-py/character-copier-kata)
 
 ### Visit my GitHub profile for more projects 🚀
 
