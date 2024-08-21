@@ -21,6 +21,7 @@ This repository does not contain code itself, it's just a container to see what 
 - [Mocking Character Copier Kata](https://github.com/dimanu-py/character-copier-kata)
 - [Trip Service Kata](https://github.com/dimanu-py/trip-service-kata)
 - [Theatrical Player Refactoring Kata](https://github.com/dimanu-py/theatrical-player-refactoring-kata)
+- [Tell Don't Ask Kata](https://github.com/dimanu-py/tell-dont-ask-kata)
 
 ### Visit my GitHub profile for more projects 🚀
 
