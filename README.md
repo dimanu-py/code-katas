@@ -11,7 +11,6 @@ This repository does not contain code itself, it's just a container to see what 
 ### Python
 
 - [Simple Mars Rover Kata](https://github.com/dimanu-py/simple-mars-rover-kata)
-- [Turn Ticket Dispenser Kata (Racing Cars Exercise)](https://github.com/dimanu-py/ticket-turn-kata)
 - [Mocking Character Copier Kata](https://github.com/dimanu-py/character-copier-kata)
 - [Trip Service Kata](https://github.com/dimanu-py/trip-service-kata)
 - [Theatrical Player Refactoring Kata](https://github.com/dimanu-py/theatrical-player-refactoring-kata)
