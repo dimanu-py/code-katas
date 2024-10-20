@@ -10,13 +10,8 @@ This repository does not contain code itself, it's just a container to see what 
 
 ### Python
 
-- [Fizz Buzz](https://github.com/dimanu-py/fizz-buzz-kata)
-- [Leap Year](https://github.com/dimanu-py/leap-year-kata)
-- [Gilded Rose Refactoring Kata](https://github.com/dimanu-py/gilded-rose-kata)
-- [Parallel Change Refactoring Kata](https://github.com/dimanu-py/parallel-change-kata)
 - [Simple Mars Rover Kata](https://github.com/dimanu-py/simple-mars-rover-kata)
 - [Tire Pressure System Kata (Racing Cars Exercise)](https://github.com/dimanu-py/tire-pressure-kata)
-- [HTML Converter Kata (Racing Cars Exercise)](https://github.com/dimanu-py/html-converter-kata)
 - [Turn Ticket Dispenser Kata (Racing Cars Exercise)](https://github.com/dimanu-py/ticket-turn-kata)
 - [Mocking Character Copier Kata](https://github.com/dimanu-py/character-copier-kata)
 - [Trip Service Kata](https://github.com/dimanu-py/trip-service-kata)
